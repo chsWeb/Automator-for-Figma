@@ -2,7 +2,7 @@
 Automations for the Automator plugin for Figma.
 
 
-##Add a description to selected styles
+## Add a description to selected styles
 Adds the same Color Style Description to all of the color styles used in the selected FIgma layers.
 
 [Bulk Select Style Description](https://github.com/chsWeb/Automator-for-Figma/blob/main/Bulk%20Selected%20Style%20Description.json)

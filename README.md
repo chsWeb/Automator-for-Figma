@@ -32,13 +32,13 @@ Automatically create a series of spirals scaled to the golden ratio. Note that t
 
 ###### AUTOMATION:
 ## Add a description to selected styles
-Adds the same Color Style Description to all of the color styles used in the selected FIgma layers.
+Adds a new Color Style Description to all of the currently selected Figma layer styles.
 
-[Bulk Select Style Description](https://github.com/chsWeb/Automator-for-Figma/blob/main/Bulk%20Selected%20Style%20Description.json) (Bulk Selected Style Description.json)
+`bulk-selected-style-description.json` [Download](https://github.com/chsWeb/Automator-for-Figma/blob/main/JSON/bulk-selected-style-description.json) 
 
 #### How to Use
-1. Install Automator (buy) and import Bulk Selected Style Description (link in thread).
+1. [Install Automator](https://automator.design ) and then import `bulk-selected-style-description.json`.
 2. Select multiple layers that have a Color Style applied.
 3. Next, run Automator > Bulk Selected Style Description
-4. Enter a useful style description for your Color Styles that will make them easy to apply in context later.
+4. Enter a new style description for your Color Styles that will make them easy to apply in context later.
 5. Apply Color Styles easily by searching for your descriptions.

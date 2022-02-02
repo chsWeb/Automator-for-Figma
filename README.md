@@ -28,6 +28,24 @@ Automatically create a series of spirals scaled to the golden ratio. Note that t
 
 ![golden spiral example](https://raw.githubusercontent.com/chsWeb/Automator-for-Figma/main/images/spiral.png)
 
+###### AUTOMATION:
+## New File Setup
+Automatically create a series of pages and set the Cover / Thumbnail from a Library Component.
+
+`getting-started--new-file.json` [Download](https://github.com/chsWeb/Automator-for-Figma/blob/main/JSON/getting-started--new-file.json)
+
+`YouTube Video` [Watch Tutorial](https://www.youtube.com/watch?v=QEfYS_I_yHE) 
+
+![golden square example](https://raw.githubusercontent.com/chsWeb/Automator-for-Figma/main/images/automate-new-file.png)
+
+###### AUTOMATION:
+## Golden Ratio Spiral
+Automatically create a series of spirals scaled to the golden ratio. Note that the Automator API does not allow for deleting a specific point of a shape, so for now, the bottom left corner needs to be manually deleted after running this automation.
+
+`goldenRatio_spiral.json` [Download](https://github.com/chsWeb/Automator-for-Figma/blob/main/JSON/goldenRatio_spiral.json) 
+
+![golden spiral example](https://raw.githubusercontent.com/chsWeb/Automator-for-Figma/main/images/spiral.png)
+
 
 
 ###### AUTOMATION:
